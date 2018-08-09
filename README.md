@@ -1,12 +1,6 @@
 # Awesome Game Studies
 An awesome list of resources for game studies, sciences, and art.
 
-Sections May Include
-- History
-- Scholarship
-- Design and Art
-- Programming
-
 Prices:
 - ![price: open source](https://img.shields.io/badge/price-open%20source-brightgreen.svg) Project is **free** and open source under a popular licence like MIT or GPL
 - ![price: free](https://img.shields.io/badge/price-free-green.svg) Project is free, but not open source (do these still exist?)
@@ -21,16 +15,30 @@ Content Levels:
 - ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 
 Other Tags:
-- ![arts and assets](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png?v6) Art, Music, and Other Assets, for both digital or tabletop games
-- ![code](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png?v6) Code, Frameworks, and Engines
-- ![schools](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34e.png?v6) Provided by a School (university) or Well-Respected Educational Institution (some you-tube channels, for instance)
-- ![videogames](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png?v6) Videogames
-- ![table top games](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6)Table Top Games
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6" width="35px" height="35px"> me
+- :art: Art, Music, and Other Assets, for both digital or tabletop games
+- :floppy_disk: Code, Frameworks, and Engines
+- :school: Provided by a School (university) or Well-Respected Educational Institution (some you-tube channels, for instance)
+- :video_game: Videogames
+- :game_die: Table Top Games
 
-[Some Cool Thing](http://google.com) 
-![price: open source](https://img.shields.io/badge/price-open%20source-brightgreen.svg) 
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
-:sweat_smile:
-:neckbeard:
+## Table of Contents
+- History
+- Scholarship and Theory
+- Design and Art
+- Programming
+- Culture
+
+### History
+- [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
+![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
+![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+:video_game
+    - YouTube channel chronicling the history of videogames in short to medium length documentaries.
+- [National Video Game Museum](http://www.nvmusa.org/)
+![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
+![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+:video_game
+    - The first professional museum in the United States solely dedicated to the history of videogames.
+
+
 
