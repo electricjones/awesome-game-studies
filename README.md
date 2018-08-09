@@ -32,12 +32,12 @@ Other Tags:
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
-:video_game
+:video_game:
     - YouTube channel chronicling the history of videogames in short to medium length documentaries.
 - [National Video Game Museum](http://www.nvmusa.org/)
 ![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
-:video_game
+:video_game:
     - The first professional museum in the United States solely dedicated to the history of videogames.
 
 
