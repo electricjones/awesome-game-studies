@@ -1,4 +1,4 @@
-# awesome-game-studies
+# Awesome Game Studies
 An awesome list of resources for game studies, sciences, and art.
 
 Sections May Include
