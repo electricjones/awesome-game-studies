@@ -7,7 +7,7 @@ Sections May Include
 - Design and Art
 - Programming
 
-Price Tags:
+Prices:
 - ![price: open source](https://img.shields.io/badge/price-open%20source-brightgreen.svg) Project is **free** and open source under a popular licence like MIT or GPL
 - ![price: free](https://img.shields.io/badge/price-free-green.svg) Project is free, but not open source (do these still exist?)
 - ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg) There is no direct fee, but put up with marketing
