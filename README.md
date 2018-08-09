@@ -16,8 +16,8 @@ Prices:
 
 Content Levels:
 *These are subjective, and specific to the *kind* of thing it is.
-- ![level: beginner](https://img.shields.io/badge/level-beginner-blue.svg)
-- ![level: intermediate](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+- ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+- ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
 - ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 
 Other Tags:
@@ -26,4 +26,11 @@ Other Tags:
 - ![schools](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34e.png?v6) Provided by a School (university) or Well-Respected Educational Institution (some you-tube channels, for instance)
 - ![videogames](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png?v6) Videogames
 - ![table top games](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6)Table Top Games
-- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6" width="20px" height="20px"> me
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6" width="35px" height="35px"> me
+
+[Some Cool Thing](http://google.com) 
+![price: open source](https://img.shields.io/badge/price-open%20source-brightgreen.svg) 
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:sweat_smile:
+:neckbeard:
+
