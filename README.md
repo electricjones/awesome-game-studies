@@ -26,3 +26,4 @@ Other Tags:
 - ![schools](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34e.png?v6) Provided by a School (university) or Well-Respected Educational Institution (some you-tube channels, for instance)
 - ![videogames](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png?v6) Videogames
 - ![table top games](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6)Table Top Games
+-  :triangular_ruler: me
