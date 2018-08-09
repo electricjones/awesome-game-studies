@@ -21,9 +21,9 @@ Content Levels:
 - ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 
 Other Tags:
-- ![arts and assets](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png?v6 | width=20 | height=20) Art, Music, and Other Assets, for both digital or tabletop games
+- ![arts and assets](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3a8.png?v6) Art, Music, and Other Assets, for both digital or tabletop games
 - ![code](https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png?v6) Code, Frameworks, and Engines
 - ![schools](https://assets-cdn.github.com/images/icons/emoji/unicode/1f34e.png?v6) Provided by a School (university) or Well-Respected Educational Institution (some you-tube channels, for instance)
 - ![videogames](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3ae.png?v6) Videogames
 - ![table top games](https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6)Table Top Games
--  :triangular_ruler: me
+- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f3b2.png?v6" width="20px" height="20px"> me
