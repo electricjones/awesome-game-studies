@@ -8,13 +8,17 @@ Sections May Include
 - Programming
 
 Tags May Include
+- https://img.shields.io/badge/price-open%20source-brightgreen.svg Open Source
 - Free
 - Paid
-- Ad-Free
-- Resources
-- School
-- Videogames
-- Table Top Games
+- Ads
+- Mixed
+
 - Beginner
 - Intermediate
 - Advanced
+
+- Resources
+- School or Educational Organization
+- Videogames
+- Table Top Games
