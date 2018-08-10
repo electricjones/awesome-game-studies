@@ -25,9 +25,9 @@ Other Tags:
 
 ## Table of Contents
 - **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
-- **[History of Gaming](#History of Gaming)**
-- **[Scholarship and Theory](#Scholarship and Theory)**
-- **[Game Development](#Game Development)**: [Game Design](#Game Design), [Game Art and Assets](#Game Art and Assets), [Game Programming and Technology](#Game Art and Assets)
+- **[History of Gaming](#history-of-gaming)**
+- **[Scholarship and Theory](#scholarship-and-theory)**
+- **[Game Development](#Game-Development)**: [Game Design](#Game-Design), [Game Art and Assets](#Game-Art-and-Assets), [Game Programming and Technology](#Game-Art-and-Assets)
 - **[Gaming Culture](#Gaming Culture)**
 - **[Educational, Therapeutic, and Impact Gaming](#Impact Gaming)**
 - **[Special and Miscellaneous Topics](#Special and Miscellaneous Topics)**
