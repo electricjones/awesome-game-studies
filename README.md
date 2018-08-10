@@ -42,3 +42,7 @@ Other Tags:
 
 
 
+https://github.com/ellisonleao/magictools#readme        Video Game Development
+https://github.com/prakhar1989/awesome-courses          Computer Science Courses
+https://github.com/sindresorhus/awesome#readme          Awesome Lists
+
