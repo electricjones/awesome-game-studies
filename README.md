@@ -11,7 +11,6 @@ Prices:
 - ![price: paid](https://img.shields.io/badge/price-paid-orange.svg) There is a direct fee (subscription or one time) with the full content or project
 
 Content Levels:
-
 These are subjective, and specific to the **kind** of thing it is.
 - ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 - ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
@@ -25,7 +24,7 @@ Other Tags:
 - :game_die: Table Top Games
 
 ## Table of Contents
-- **[General Introductions to Game Studies](#General Introductions to Game Studies)**
+- **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
 - **[History of Gaming](#History of Gaming)**
 - **[Scholarship and Theory](#Scholarship and Theory)**
 - **[Game Development](#Game Development)**: [Game Design](#Game Design), [Game Art and Assets](#Game Art and Assets), [Game Programming and Technology](#Game Art and Assets)
