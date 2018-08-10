@@ -28,10 +28,10 @@ Other Tags:
 - **[History of Gaming](#history-of-gaming)**
 - **[Scholarship and Theory](#scholarship-and-theory)**
 - **[Game Development](#Game-Development)**: [Game Design](#Game-Design), [Game Art and Assets](#Game-Art-and-Assets), [Game Programming and Technology](#Game-Art-and-Assets)
-- **[Gaming Culture](#Gaming Culture)**
-- **[Educational, Therapeutic, and Impact Gaming](#Impact Gaming)**
-- **[Special and Miscellaneous Topics](#Special and Miscellaneous Topics)**
-- **[Other Lists](#Other Lists)**
+- **[Gaming Culture](#Gaming-Culture)**
+- **[Educational, Therapeutic, and Impact Gaming](#Impact-Gaming)**
+- **[Special and Miscellaneous Topics](#Special-and-Miscellaneous-Topics)**
+- **[Other Lists](#Other-Lists)**
 
 ### General Introductions to Game Studies
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
@@ -39,6 +39,7 @@ Other Tags:
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_game:
     - One of the premier channels covering all topics of video games.
+    
 - [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
@@ -53,6 +54,7 @@ Other Tags:
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_game:
     - YouTube channel chronicling the history of videogames in short to medium length documentaries.
+    
 - [National Video Game Museum](http://www.nvmusa.org/)
 ![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
@@ -97,7 +99,9 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 - [Magic Tools: Game Development Awesome List](https://github.com/ellisonleao/magictools#readme)
 :video_game:
 :floppy_disk:
+
 - [Computer Science Courses](https://github.com/prakhar1989/awesome-courses)
 :floppy_disk:
+
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
     - An Awesome List of Awesome Lists
