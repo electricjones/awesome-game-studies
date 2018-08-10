@@ -34,32 +34,32 @@ Other Tags:
 - **[Other Lists](#other-lists)**
 
 ### General Introductions to Game Studies
-[Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
+- [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_game:
     - One of the premier channels covering all topics of video games.
     
-[Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
+- [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_game:
 :game_die:
-- A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
-- > In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports! 
+    - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
+    - > In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports! 
     
 ### History of Gaming
-[The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
+- [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_game:
-- YouTube channel chronicling the history of videogames in short to medium length documentaries.
+    - YouTube channel chronicling the history of videogames in short to medium length documentaries.
     
-[National Video Game Museum](http://www.nvmusa.org/)
+- [National Video Game Museum](http://www.nvmusa.org/)
 ![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_game:
-- The first professional museum in the United States solely dedicated to the history of videogames.
+    - The first professional museum in the United States solely dedicated to the history of videogames.
 
 ### Scholarship and Theory
 (Seeking entries)
