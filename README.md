@@ -46,7 +46,7 @@ Other Tags:
 :video_game:
 :game_die:
     - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
-    - > In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports! 
+    - "In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports!" 
     
 ### History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
@@ -99,9 +99,7 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 - [Magic Tools: Game Development Awesome List](https://github.com/ellisonleao/magictools#readme)
 :video_game:
 :floppy_disk:
-
 - [Computer Science Courses](https://github.com/prakhar1989/awesome-courses)
 :floppy_disk:
-
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
     - An Awesome List of Awesome Lists
