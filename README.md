@@ -33,6 +33,7 @@ Other Tags:
 - :school: Provided by a School (university) or Well-Respected Educational Institution (some you-tube channels, for instance)
 - :video_game: Videogames
 - :game_die: Table Top Games
+- :books: Book (check the library)
 
 ## General Introductions to Game Studies
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
@@ -83,7 +84,12 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
     - Harvard's Introduction to Game Development. Week by week case studies of some of the most successful games and programming assignments.
 
 ## Gaming Culture
-(Seeking entries)
+- [Coming of Age in Second Life: An Anthropologist Explores the Virtually Human](https://books.google.com/books?id=jlLpCAAAQBAJ&printsec=frontcover&dq=Coming+of+Age+in+Second+Life:+An+Anthropologist+Explores+the+Virtually+Human&hl=en&sa=X&ved=0ahUKEwjnwO-zqaLdAhXImq0KHazwDqQQ6AEIKDAA#v=onepage&q=Coming%20of%20Age%20in%20Second%20Life%3A%20An%20Anthropologist%20Explores%20the%20Virtually%20Human&f=false)
+![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
+![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:video_game:
+:books:
+    - A classic and comprehensive ethnography of online multi-player gaming.
 
 ## Impact Gaming
 - [Design and Development of Games for Learning](https://courses.edx.org/courses/course-v1:MITx+11.127x_2+3T2016/course/)
@@ -92,6 +98,13 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 :video_game:
 :school:
     - Part of an Educational Technology Series. Includes lessons on game design, analysis, and development for education.
+    
+- [Choosing and Using Digital Games in the Classroom: A Practical Guide. Advances in Game-Based Learning](https://www.springer.com/us/book/9783319122229)
+![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
+![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:video_game:
+:books:
+    - Aimed at classroom teachers. Research-based application of digital games in the real world.
 
 ## Special and Miscellaneous Topics
 (Seeking entries)
