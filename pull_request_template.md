@@ -1,10 +1,3 @@
-
-- If you follow the above instructions, you should be shown the [Pull Request Template](pull_request_template.md) which will have the information you will need
-- Follow the format laid out in the README. Use the tags correctly. View the readme to see what the github flavored tags are.
-- This is not a "big list" this is an "awesome list." Curate, don't collect. You must verify that you have first hand experience with what you are proposing and that it is of high quality. First party owners of material are discouraged from submitting, but will not be automatically turned down.
-
-### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
-
 ## Requirements for your pull request
 - This pull request has a descriptive title in the format `Add/Update/Remove Item`, not `Update readme.md` or `Add item`.
 - The entry in the list should:
