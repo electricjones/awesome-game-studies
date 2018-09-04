@@ -3,7 +3,7 @@
 > A community-driven awesome list of resources for gaming scholarship, art, and sciences.
 Focused on general Game Scholarship Theories, Videogames, and Tabletop games. 
 
-## Table of Contents
+## Contents
 - **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
 - **[History of Gaming](#history-of-gaming)**
 - **[Scholarship and Theory](#scholarship-and-theory)**
