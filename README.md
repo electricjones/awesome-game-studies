@@ -1,6 +1,17 @@
-# Awesome Game Studies
-A community-driven awesome list of resources for gaming scholarship, art, and sciences. 
-Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
+# Awesome Game Studies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A community-driven awesome list of resources for gaming scholarship, art, and sciences.
+Focused on general Game Scholarship Theories, Videogames, and Tabletop games. 
+
+## Table of Contents
+- **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
+- **[History of Gaming](#history-of-gaming)**
+- **[Scholarship and Theory](#scholarship-and-theory)**
+- **[Game Development](#game-development)**: [Game Design](#game-design), [Game Art and Assets](#game-art-and-assets), [Game Programming and Technology](#game-art-and-assets)
+- **[Gaming Culture](#gaming-culture)**
+- **[Educational, Therapeutic, and Impact Gaming](#impact-gaming)**
+- **[Special and Miscellaneous Topics](#special-and-miscellaneous-topics)**
+- **[Other Lists](#other-lists)**
 
 ## Legend
 Prices:
@@ -23,17 +34,7 @@ Other Tags:
 - :video_game: Videogames
 - :game_die: Table Top Games
 
-## Table of Contents
-- **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
-- **[History of Gaming](#history-of-gaming)**
-- **[Scholarship and Theory](#scholarship-and-theory)**
-- **[Game Development](#game-development)**: [Game Design](#game-design), [Game Art and Assets](#game-art-and-assets), [Game Programming and Technology](#game-art-and-assets)
-- **[Gaming Culture](#gaming-culture)**
-- **[Educational, Therapeutic, and Impact Gaming](#impact-gaming)**
-- **[Special and Miscellaneous Topics](#special-and-miscellaneous-topics)**
-- **[Other Lists](#other-lists)**
-
-### General Introductions to Game Studies
+## General Introductions to Game Studies
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
@@ -48,7 +49,7 @@ Other Tags:
     - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
     - "In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports!" 
     
-### History of Gaming
+## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
@@ -61,19 +62,19 @@ Other Tags:
 :video_game:
     - The first professional museum in the United States solely dedicated to the history of videogames.
 
-### Scholarship and Theory
+## Scholarship and Theory
 (Seeking entries)
 
-### Game Development
+## Game Development
 (Seeking entries)
 
-#### Game Design
+### Game Design
 Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, **Rules**, etc.
 
-#### Game Art and Assets
+### Game Art and Assets
 (Seeking entries)
 
-#### Game Programming and Technology
+### Game Programming and Technology
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)
 ![price: free](https://img.shields.io/badge/price-free-green.svg)
 ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
@@ -81,10 +82,10 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 :school:
     - Harvard's Introduction to Game Development. Week by week case studies of some of the most successful games and programming assignments.
 
-### Gaming Culture
+## Gaming Culture
 (Seeking entries)
 
-### Impact Gaming
+## Impact Gaming
 - [Design and Development of Games for Learning](https://courses.edx.org/courses/course-v1:MITx+11.127x_2+3T2016/course/)
 ![price: free](https://img.shields.io/badge/price-free-green.svg)
 ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
@@ -92,10 +93,10 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 :school:
     - Part of an Educational Technology Series. Includes lessons on game design, analysis, and development for education.
 
-### Special and Miscellaneous Topics
+## Special and Miscellaneous Topics
 (Seeking entries)
 
-### Other Lists
+## Other Lists
 - [Magic Tools: Game Development Awesome List](https://github.com/ellisonleao/magictools#readme)
 :video_game:
 :floppy_disk:
@@ -103,3 +104,12 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 :floppy_disk:
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme)
     - An Awesome List of Awesome Lists
+
+## Contribute
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, Michael Wilson has waived all copyright and
+related or neighboring rights to this work.
