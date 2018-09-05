@@ -11,6 +11,7 @@ Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
 - **[Gaming Culture](#gaming-culture)**
 - **[Educational, Therapeutic, and Impact Gaming](#impact-gaming)**
 - **[Special and Miscellaneous Topics](#special-and-miscellaneous-topics)**
+- **[Community](#community)**: [General](#general), [Conferences](#conferences), [Schools](#schools), [Research Organizations](research-organizations)
 - **[Other Lists](#other-lists)**
 
 ## Legend
@@ -89,7 +90,7 @@ Other Tags:
 (Seeking entries)
 
 ## Game Development
-(Seeking entries)
+(Seeking entries) - Is duplicated by 
 
 ### Game Design
 Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, **Rules**, etc.
@@ -130,6 +131,61 @@ Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, *
 
 ## Special and Miscellaneous Topics
 (Seeking entries)
+
+## Community
+Iron Sharpens Iron -- You are not alone!
+
+### General
+(Seeking Entries for slack groups, meetups, blogs, forums, mailing lists, etc.)
+
+### Conferences
+- [Meaningful Play](http://meaningfulplay.msu.edu/) at [Michigan State University](https://msu.edu/)
+![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:school: (Annually)
+    - "Meaningful Play is a conference about theory, research, and game design innovations, principles and practices. Meaningful Play brings scholars and industry professionals together to understand and improve upon games to entertain, inform, educate, and persuade in meaningful ways."
+
+- [Games for Change Festival](http://www.gamesforchange.org/festival/)
+![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+    - "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
+
+### Research Organizations and Schools
+University of Washington
+[Massachusetts Institute of Technology](https://www.media.mit.edu/)
+![price: mixed](https://img.shields.io/badge/price-mixed-yellow.svg)
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:school:
+    - [MIT Education Arcade](https://education.mit.edu/): Research Lab and Teacher Education focusing on innovation around Games for Learning, Simulation and Programming tools, Teacher Licensure, Professional Development and Curriculum Development.
+    - [MIT Game Lab](http://gamelab.mit.edu/): "The MIT Game Lab brings together scholars, creators, and technologists to teach, conduct research, and develop new approaches for applied game design and construction."
+    - [MIT Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/): "The Lifelong Kindergarten group develops new technologies and activities that, in the spirit of the blocks and finger paint of kindergarten, engage people in creative learning experiences. Our ultimate goal is a world full of playfully creative people, who are constantly inventing new possibilities for themselves and their communities."
+
+[Michigan State University](http://gamedev.msu.edu/)
+![price: mixed](https://img.shields.io/badge/price-mixed-yellow.svg)
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:school:
+    - [Games for Entertainment and Learning Lab](http://gamedev.msu.edu/gel-lab/): "The mission is to design innovative prototypes, techniques, and complete games for entertainment and learning and to advance state of the art knowledge about social and individual effects of digital games."
+    - [iVerse Lab](http://gamedev.msu.edu/iverse-lab/): Researches Virtual Reality Design, Creative Activities, Game Design and Development, and other Game Studies topics.
+    - [Inclusive GameDev Institute](http://gamedev.msu.edu/inclusive-gamedev-institute/): "Inclusive Game Dev is a cross-institutional program hosted by Michigan State University to increase all forms of diversity in game design and development through talks, workshops, game showcases, and gaming + reading groups."
+
+[New York University: Tisch](http://tisch.nyu.edu/)
+![price: mixed](https://img.shields.io/badge/price-mixed-yellow.svg)
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:school:
+    - [Game Center](https://gamecenter.nyu.edu/): "The NYU Game Center is dedicated to the exploration of games as a cultural form and game design as creative practice." Offers art and research degrees.
+
+[University of Washington](https://www.cs.washington.edu/research/graphics)
+![price: mixed](https://img.shields.io/badge/price-mixed-yellow.svg)
+![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:school:
+    - [Center for Game Science](http://centerforgamescience.org/): "The Center for Game Science at the University of Washington focuses on solving hard problems facing humanity today in a game based environment. Our focus is on scientific discovery games, games that discover optimal learning pathways for STEM education, cognitive skill training games, games that promote human creativity, games that explore collective over individual intelligence, and many more."
+        - Works on some of the most successful and innovative impact games in history, like [FoldIt](http://centerforgamescience.org/blog/portfolio/foldit/)
+    - [Critical Gaming Project](http://depts.washington.edu/critgame/project/): "he CGP is a collaborative, interdisciplinary working group and community of players at UW dedicated to the critical study and teaching of games."
+
+[Games for Change](http://www.gamesforchange.org/): Games for Change empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place.
+![price: mixed](https://img.shields.io/badge/price-mixed-yellow.svg)
+- ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:school: (Non-Profit associated with several schools)
 
 ## Other Lists
 - [Magic Tools: Game Development Awesome List](https://github.com/ellisonleao/magictools#readme)
