@@ -7,11 +7,11 @@ Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
 - **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
 - **[History of Gaming](#history-of-gaming)**
 - **[Scholarship and Theory](#scholarship-and-theory)**
-- **[Game Development](#game-development)**: [Game Design](#game-design), [Game Art and Assets](#game-art-and-assets), [Game Programming and Technology](#game-art-and-assets)
+- **[Game Development](#game-development)** 
 - **[Gaming Culture](#gaming-culture)**
 - **[Educational, Therapeutic, and Impact Gaming](#impact-gaming)**
 - **[Special and Miscellaneous Topics](#special-and-miscellaneous-topics)**
-- **[Community](#community)**: [General](#general), [Conferences](#conferences), [Schools](#schools), [Research Organizations](research-organizations)
+- **[Community](#community)**: [Conferences](#conferences), [Schools](#schools), [Research Organizations](research-organizations)
 - **[Other Lists](#other-lists)**
 
 ## Legend
@@ -90,15 +90,8 @@ Other Tags:
 (Seeking entries)
 
 ## Game Development
-(Seeking entries) - Is duplicated by 
-
-### Game Design
-Includes **Game Mechanics**, **Worldbuilding**, **Narrative**, **Characters**, **Rules**, etc.
-
-### Game Art and Assets
-(Seeking entries)
-
-### Game Programming and Technology
+> This is NOT a list of tools to help you make games. See the excellent [Magic Tools](https://github.com/ellisonleao/magictools#readme) list for that.
+This list is about **learning** to make games, from design to art to programming
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)
 ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
 :free:
