@@ -52,7 +52,7 @@ Other Tags:
  | 
 :video_game:
 :game_die:
- | A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
+ | A comprehensive introduction to the history of gaming and topics in game studies.
   
 - [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/)
 :sunglasses:
@@ -61,7 +61,7 @@ Other Tags:
  | 
 :books:
 :school:
- | One of the most standard textbooks for Game Studies Courses.
+ | Standard textbooks for Game Studies Courses.
 
 - [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/)
 :sunglasses:
@@ -80,20 +80,24 @@ Other Tags:
 :school:
 :video_game:
 :game_die:
- | Lecture notes and supplemental material form an Intro to Game Studies Course and [Simon Frasier University](https://www.sfu.ca/)
+ | Lecture notes from Intro to Game Studies at [Simon Frasier University](https://www.sfu.ca/)
       
 ## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 :smiley:
+ | 
 :video_camera:
+ | 
 :video_game:
-    - YouTube channel chronicling the history of videogames in short to medium length documentaries.
+ | YouTube channel chronicling the history of videogames.
     
 - [National Video Game Museum](http://www.nvmusa.org/)
 :smiley:
+ | 
 :moneybag:
+ | 
 :video_game:
-    - The first professional museum in the United States solely dedicated to the history of videogames.
+ | The first professional museum in the United States solely dedicated to the history of videogames.
 
 ## Scholarship and Theory
 (Seeking entries)
@@ -103,33 +107,41 @@ Other Tags:
 This list is about **learning** to make games, from design to art to programming
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)
 :sunglasses:
+ | 
 :free:
+ | 
 :video_game:
 :school:
-    - Harvard's Introduction to Game Development. Week by week case studies of some of the most successful games and programming assignments.
+ | Harvard's Introduction to Game Development. Week by week case studies of some of the most successful games and programming assignments.
 
 ## Gaming Culture
 - [Coming of Age in Second Life: An Anthropologist Explores the Virtually Human](https://books.google.com/books?id=jlLpCAAAQBAJ&printsec=frontcover&dq=Coming+of+Age+in+Second+Life:+An+Anthropologist+Explores+the+Virtually+Human&hl=en&sa=X&ved=0ahUKEwjnwO-zqaLdAhXImq0KHazwDqQQ6AEIKDAA#v=onepage&q=Coming%20of%20Age%20in%20Second%20Life%3A%20An%20Anthropologist%20Explores%20the%20Virtually%20Human&f=false)
 :sunglasses:
+ | 
 :moneybag:
+ | 
 :video_game:
 :books:
-    - A classic and comprehensive ethnography of online multi-player gaming.
+ | A classic and comprehensive ethnography of online multi-player gaming.
 
 ## Impact Gaming
 - [Design and Development of Games for Learning](https://courses.edx.org/courses/course-v1:MITx+11.127x_2+3T2016/course/)
 :sunglasses:
+ | 
 :free:
+ | 
 :video_game:
 :school:
-    - Part of an Educational Technology Series. Includes lessons on game design, analysis, and development for education.
+ | Includes lessons on game design, analysis, and development for education.
     
 - [Choosing and Using Digital Games in the Classroom](https://www.springer.com/us/book/9783319122229)
 :sunglasses:
+ | 
 :moneybag:
+ | 
 :video_game:
 :books:
-    - Aimed at classroom teachers. Research-based application of digital games in the real world. Practical Guide to Game Based Learning.
+ | Research-based application of digital games n the classroom.
 
 ## Special and Miscellaneous Topics
 (Seeking entries)
@@ -141,18 +153,21 @@ This list is about **learning** to make games, from design to art to programming
 - [Meaningful Play](http://meaningfulplay.msu.edu/) at [Michigan State University](https://msu.edu/)
 :woman_student:
 :moneybag:
+ | 
 :school: (Annually)
-    - "Meaningful Play is a conference about theory, research, and game design innovations, principles and practices. Meaningful Play brings scholars and industry professionals together to understand and improve upon games to entertain, inform, educate, and persuade in meaningful ways."
+ | "Meaningful Play is a conference about theory, research, and game design innovations, principles and practices. Meaningful Play brings scholars and industry professionals together to understand and improve upon games to entertain, inform, educate, and persuade in meaningful ways."
 
 - [Games for Change Festival](http://www.gamesforchange.org/festival/)
 :woman_student:
 :moneybag:
-    - "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
+ | "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
 
 ### Research Organizations and Schools
 - [Massachusetts Institute of Technology](https://www.media.mit.edu/)
 :woman_student:
+ |
 :money_with_wings:
+ | 
 :school:
     - [MIT Education Arcade](https://education.mit.edu/): Research Lab and Teacher Education focusing on innovation around Games for Learning, Simulation and Programming tools, Teacher Licensure, Professional Development and Curriculum Development.
     - [MIT Game Lab](http://gamelab.mit.edu/): "The MIT Game Lab brings together scholars, creators, and technologists to teach, conduct research, and develop new approaches for applied game design and construction."
@@ -160,7 +175,9 @@ This list is about **learning** to make games, from design to art to programming
 
 - [Michigan State University](http://gamedev.msu.edu/)
 :woman_student:
+ | 
 :money_with_wings:
+ |
 :school:
     - [Games for Entertainment and Learning Lab](http://gamedev.msu.edu/gel-lab/): "The mission is to design innovative prototypes, techniques, and complete games for entertainment and learning and to advance state of the art knowledge about social and individual effects of digital games."
     - [iVerse Lab](http://gamedev.msu.edu/iverse-lab/): Researches Virtual Reality Design, Creative Activities, Game Design and Development, and other Game Studies topics.
@@ -168,13 +185,17 @@ This list is about **learning** to make games, from design to art to programming
 
 - [New York University: Tisch](http://tisch.nyu.edu/)
 :woman_student:
+ | 
 :money_with_wings:
+ | 
 :school:
     - [Game Center](https://gamecenter.nyu.edu/): "The NYU Game Center is dedicated to the exploration of games as a cultural form and game design as creative practice." Offers art and research degrees.
 
 - [University of Washington](https://www.cs.washington.edu/research/graphics)
 :woman_student:
+ | 
 :money_with_wings:
+ | 
 :school:
     - [Center for Game Science](http://centerforgamescience.org/): "The Center for Game Science at the University of Washington focuses on solving hard problems facing humanity today in a game based environment. Our focus is on scientific discovery games, games that discover optimal learning pathways for STEM education, cognitive skill training games, games that promote human creativity, games that explore collective over individual intelligence, and many more."
         - Works on some of the most successful and innovative impact games in history, like [FoldIt](http://centerforgamescience.org/blog/portfolio/foldit/)
@@ -182,7 +203,9 @@ This list is about **learning** to make games, from design to art to programming
 
 - [Games for Change](http://www.gamesforchange.org/): Games for Change empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place.
 :sunglasses:
+ | 
 :money_with_wings:
+ | 
 :school: (Non-Profit associated with several schools)
 
 ## Other Lists
