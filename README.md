@@ -39,13 +39,13 @@ Other Tags:
 ## General Introductions to Game Studies
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
-:money_with_wings:
+:video_camera:
 :video_game:
     - One of the premier channels covering all topics of video games.
     
 - [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
-:money_with_wings:
+:video_camera:
 :video_game:
 :game_die:
     - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
@@ -76,7 +76,7 @@ Other Tags:
 ## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
-:money_with_wings:
+:video_camera:
 :video_game:
     - YouTube channel chronicling the history of videogames in short to medium length documentaries.
     
@@ -115,20 +115,17 @@ This list is about **learning** to make games, from design to art to programming
 :school:
     - Part of an Educational Technology Series. Includes lessons on game design, analysis, and development for education.
     
-- [Choosing and Using Digital Games in the Classroom: A Practical Guide. Advances in Game-Based Learning](https://www.springer.com/us/book/9783319122229)
+- [Choosing and Using Digital Games in the Classroom](https://www.springer.com/us/book/9783319122229)
 ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
 :moneybag:
 :video_game:
 :books:
-    - Aimed at classroom teachers. Research-based application of digital games in the real world.
+    - Aimed at classroom teachers. Research-based application of digital games in the real world. Practical Guide to Game Based Learning.
 
 ## Special and Miscellaneous Topics
 (Seeking entries)
 
 ## Community
-Iron Sharpens Iron -- You are not alone!
-
-### General
 (Seeking Entries for slack groups, meetups, blogs, forums, mailing lists, etc.)
 
 ### Conferences
@@ -144,8 +141,7 @@ Iron Sharpens Iron -- You are not alone!
     - "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
 
 ### Research Organizations and Schools
-University of Washington
-[Massachusetts Institute of Technology](https://www.media.mit.edu/)
+- [Massachusetts Institute of Technology](https://www.media.mit.edu/)
 ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 :money_with_wings:
 :school:
@@ -153,7 +149,7 @@ University of Washington
     - [MIT Game Lab](http://gamelab.mit.edu/): "The MIT Game Lab brings together scholars, creators, and technologists to teach, conduct research, and develop new approaches for applied game design and construction."
     - [MIT Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/): "The Lifelong Kindergarten group develops new technologies and activities that, in the spirit of the blocks and finger paint of kindergarten, engage people in creative learning experiences. Our ultimate goal is a world full of playfully creative people, who are constantly inventing new possibilities for themselves and their communities."
 
-[Michigan State University](http://gamedev.msu.edu/)
+- [Michigan State University](http://gamedev.msu.edu/)
 ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 :money_with_wings:
 :school:
@@ -161,13 +157,13 @@ University of Washington
     - [iVerse Lab](http://gamedev.msu.edu/iverse-lab/): Researches Virtual Reality Design, Creative Activities, Game Design and Development, and other Game Studies topics.
     - [Inclusive GameDev Institute](http://gamedev.msu.edu/inclusive-gamedev-institute/): "Inclusive Game Dev is a cross-institutional program hosted by Michigan State University to increase all forms of diversity in game design and development through talks, workshops, game showcases, and gaming + reading groups."
 
-[New York University: Tisch](http://tisch.nyu.edu/)
+- [New York University: Tisch](http://tisch.nyu.edu/)
 ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 :money_with_wings:
 :school:
     - [Game Center](https://gamecenter.nyu.edu/): "The NYU Game Center is dedicated to the exploration of games as a cultural form and game design as creative practice." Offers art and research degrees.
 
-[University of Washington](https://www.cs.washington.edu/research/graphics)
+- [University of Washington](https://www.cs.washington.edu/research/graphics)
 ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
 :money_with_wings:
 :school:
@@ -175,7 +171,7 @@ University of Washington
         - Works on some of the most successful and innovative impact games in history, like [FoldIt](http://centerforgamescience.org/blog/portfolio/foldit/)
     - [Critical Gaming Project](http://depts.washington.edu/critgame/project/): "he CGP is a collaborative, interdisciplinary working group and community of players at UW dedicated to the critical study and teaching of games."
 
-[Games for Change](http://www.gamesforchange.org/): Games for Change empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place.
+- [Games for Change](http://www.gamesforchange.org/): Games for Change empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place.
 ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
 :money_with_wings:
 :school: (Non-Profit associated with several schools)
