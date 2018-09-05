@@ -60,7 +60,7 @@ Other Tags:
 :moneybag:
 :books:
 :school:
-    - One of the most standard textbooks for Game Studies Courses.
+:One of the most standard textbooks for Game Studies Courses.
 
 - [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/)
 :sunglasses:
