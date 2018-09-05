@@ -49,7 +49,22 @@ Other Tags:
 :game_die:
     - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
     - "In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports!" 
-    
+  
+- [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/)
+![price: paid](https://img.shields.io/badge/price-paid-orange.svg)
+![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:books:
+:school:
+    - One of the most standard textbooks for Game Studies Courses.
+
+- [Introduction to Game Studies: Theory and Design (Iat 210)](https://www.studocu.com/en/course/simon-fraser-university/introduction-to-game-studies-theory-and-design/266743)
+![price: free](https://img.shields.io/badge/price-free-green.svg)
+![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:school:
+:video_game:
+:game_die:
+    - Lecture notes and supplemental material form an Intro to Game Studies Course and [Simon Frasier University](https://www.sfu.ca/)
+      
 ## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
 ![price: ads](https://img.shields.io/badge/price-ads-yellowgreen.svg)
@@ -124,5 +139,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, Michael Wilson has waived all copyright and
-related or neighboring rights to this work.
+To the extent possible under law, Michael Wilson has waived all copyright and related or neighboring rights to this work.
