@@ -24,9 +24,9 @@ Licences and Pricing:
 
 Content Levels:
 These are subjective, and specific to the **kind** of thing it is.
-- ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
-- ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
-- ![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+- :smiley: Beginner or Introductory
+- :sunglasses: Intermediate
+- :woman_student: Advanced
 
 Other Tags:
 - :art: Art, Music, and Other Assets, for both digital or tabletop games
@@ -38,34 +38,39 @@ Other Tags:
 
 ## General Introductions to Game Studies
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
-![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+:smiley:
+ | 
 :video_camera:
-:video_game:: One of the premier channels covering all topics of video games.
+ | 
+:video_game:
+ - One of the premier channels covering all topics of video games.
     
 - [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
-![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+:smiley:
+ | 
 :video_camera:
+ | 
 :video_game:
 :game_die:
     - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
     - "In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports!" 
   
 - [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :moneybag:
 :books:
 :school:
     - One of the most standard textbooks for Game Studies Courses.
 
 - [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :free:
 :school:
     - Working Syllabus for an Introduction to Game Studies course at the [University of Washington - Bothell](http://www.uwb.edu/)
     - Uses [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/), which is also on this list
 
 - [Introduction to Game Studies: Theory and Design (Iat 210)](https://www.studocu.com/en/course/simon-fraser-university/introduction-to-game-studies-theory-and-design/266743)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :free:
 :school:
 :video_game:
@@ -74,13 +79,13 @@ Other Tags:
       
 ## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
-![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+:smiley:
 :video_camera:
 :video_game:
     - YouTube channel chronicling the history of videogames in short to medium length documentaries.
     
 - [National Video Game Museum](http://www.nvmusa.org/)
-![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
+:smiley:
 :moneybag:
 :video_game:
     - The first professional museum in the United States solely dedicated to the history of videogames.
@@ -92,7 +97,7 @@ Other Tags:
 > This is NOT a list of tools to help you make games. See the excellent [Magic Tools](https://github.com/ellisonleao/magictools#readme) list for that.
 This list is about **learning** to make games, from design to art to programming
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :free:
 :video_game:
 :school:
@@ -100,7 +105,7 @@ This list is about **learning** to make games, from design to art to programming
 
 ## Gaming Culture
 - [Coming of Age in Second Life: An Anthropologist Explores the Virtually Human](https://books.google.com/books?id=jlLpCAAAQBAJ&printsec=frontcover&dq=Coming+of+Age+in+Second+Life:+An+Anthropologist+Explores+the+Virtually+Human&hl=en&sa=X&ved=0ahUKEwjnwO-zqaLdAhXImq0KHazwDqQQ6AEIKDAA#v=onepage&q=Coming%20of%20Age%20in%20Second%20Life%3A%20An%20Anthropologist%20Explores%20the%20Virtually%20Human&f=false)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :moneybag:
 :video_game:
 :books:
@@ -108,14 +113,14 @@ This list is about **learning** to make games, from design to art to programming
 
 ## Impact Gaming
 - [Design and Development of Games for Learning](https://courses.edx.org/courses/course-v1:MITx+11.127x_2+3T2016/course/)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :free:
 :video_game:
 :school:
     - Part of an Educational Technology Series. Includes lessons on game design, analysis, and development for education.
     
 - [Choosing and Using Digital Games in the Classroom](https://www.springer.com/us/book/9783319122229)
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :moneybag:
 :video_game:
 :books:
@@ -129,19 +134,19 @@ This list is about **learning** to make games, from design to art to programming
 
 ### Conferences
 - [Meaningful Play](http://meaningfulplay.msu.edu/) at [Michigan State University](https://msu.edu/)
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:woman_student:
 :moneybag:
 :school: (Annually)
     - "Meaningful Play is a conference about theory, research, and game design innovations, principles and practices. Meaningful Play brings scholars and industry professionals together to understand and improve upon games to entertain, inform, educate, and persuade in meaningful ways."
 
 - [Games for Change Festival](http://www.gamesforchange.org/festival/)
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:woman_student:
 :moneybag:
     - "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
 
 ### Research Organizations and Schools
 - [Massachusetts Institute of Technology](https://www.media.mit.edu/)
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:woman_student:
 :money_with_wings:
 :school:
     - [MIT Education Arcade](https://education.mit.edu/): Research Lab and Teacher Education focusing on innovation around Games for Learning, Simulation and Programming tools, Teacher Licensure, Professional Development and Curriculum Development.
@@ -149,7 +154,7 @@ This list is about **learning** to make games, from design to art to programming
     - [MIT Lifelong Kindergarten](https://www.media.mit.edu/groups/lifelong-kindergarten/overview/): "The Lifelong Kindergarten group develops new technologies and activities that, in the spirit of the blocks and finger paint of kindergarten, engage people in creative learning experiences. Our ultimate goal is a world full of playfully creative people, who are constantly inventing new possibilities for themselves and their communities."
 
 - [Michigan State University](http://gamedev.msu.edu/)
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:woman_student:
 :money_with_wings:
 :school:
     - [Games for Entertainment and Learning Lab](http://gamedev.msu.edu/gel-lab/): "The mission is to design innovative prototypes, techniques, and complete games for entertainment and learning and to advance state of the art knowledge about social and individual effects of digital games."
@@ -157,13 +162,13 @@ This list is about **learning** to make games, from design to art to programming
     - [Inclusive GameDev Institute](http://gamedev.msu.edu/inclusive-gamedev-institute/): "Inclusive Game Dev is a cross-institutional program hosted by Michigan State University to increase all forms of diversity in game design and development through talks, workshops, game showcases, and gaming + reading groups."
 
 - [New York University: Tisch](http://tisch.nyu.edu/)
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:woman_student:
 :money_with_wings:
 :school:
     - [Game Center](https://gamecenter.nyu.edu/): "The NYU Game Center is dedicated to the exploration of games as a cultural form and game design as creative practice." Offers art and research degrees.
 
 - [University of Washington](https://www.cs.washington.edu/research/graphics)
-![level: advanced](https://img.shields.io/badge/level-advanced-lightgrey.svg)
+:woman_student:
 :money_with_wings:
 :school:
     - [Center for Game Science](http://centerforgamescience.org/): "The Center for Game Science at the University of Washington focuses on solving hard problems facing humanity today in a game based environment. Our focus is on scientific discovery games, games that discover optimal learning pathways for STEM education, cognitive skill training games, games that promote human creativity, games that explore collective over individual intelligence, and many more."
@@ -171,7 +176,7 @@ This list is about **learning** to make games, from design to art to programming
     - [Critical Gaming Project](http://depts.washington.edu/critgame/project/): "he CGP is a collaborative, interdisciplinary working group and community of players at UW dedicated to the critical study and teaching of games."
 
 - [Games for Change](http://www.gamesforchange.org/): Games for Change empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place.
-![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:sunglasses:
 :money_with_wings:
 :school: (Non-Profit associated with several schools)
 
