@@ -72,7 +72,7 @@ This list is about **learning** to make games, from design to art to programming
 
 ### Conferences
 - [Meaningful Play](http://meaningfulplay.msu.edu/) at [Michigan State University](https://msu.edu/) :woman_student: :moneybag: | :school: (Annually) | "Meaningful Play is a conference about theory, research, and game design innovations, principles and practices. Meaningful Play brings scholars and industry professionals together to understand and improve upon games to entertain, inform, educate, and persuade in meaningful ways."
-- [Games for Change Festival](http://www.gamesforchange.org/festival/) :woman_student: :moneybag: | "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
+- [Games for Change Festival](http://www.gamesforchange.org/festival/) :woman_student: | :moneybag: | "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
 
 ### Research Organizations and Schools
 - [Massachusetts Institute of Technology](https://www.media.mit.edu/) :woman_student: |:money_with_wings: | :school:
