@@ -40,8 +40,7 @@ Other Tags:
 - [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
 :video_camera:
-:video_game:
-    - One of the premier channels covering all topics of video games.
+:video_game:: One of the premier channels covering all topics of video games.
     
 - [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
 ![level: beginner +](https://img.shields.io/badge/level-beginner-blue.svg)
