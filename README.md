@@ -43,7 +43,7 @@ Other Tags:
 :video_camera:
  | 
 :video_game:
- - One of the premier channels covering all topics of video games.
+ | One of the premier channels covering all topics of video games.
     
 - [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
 :smiley:
@@ -52,30 +52,35 @@ Other Tags:
  | 
 :video_game:
 :game_die:
-    - A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
-    - "In this series our host Andre Meadows is going to discuss the history and science of games. We’re going to talk about video games of course, but also board games, role playing games, card games, even sports!" 
+ | A 32 episode, comprehensive introduction to the history of gaming and topics in game studies.
   
 - [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/)
 :sunglasses:
+ | 
 :moneybag:
+ | 
 :books:
 :school:
-:One of the most standard textbooks for Game Studies Courses.
+ | One of the most standard textbooks for Game Studies Courses.
 
 - [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/)
 :sunglasses:
+ | 
 :free:
+ | 
 :school:
     - Working Syllabus for an Introduction to Game Studies course at the [University of Washington - Bothell](http://www.uwb.edu/)
     - Uses [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/), which is also on this list
 
 - [Introduction to Game Studies: Theory and Design (Iat 210)](https://www.studocu.com/en/course/simon-fraser-university/introduction-to-game-studies-theory-and-design/266743)
 :sunglasses:
+ | 
 :free:
+ | 
 :school:
 :video_game:
 :game_die:
-    - Lecture notes and supplemental material form an Intro to Game Studies Course and [Simon Frasier University](https://www.sfu.ca/)
+ | Lecture notes and supplemental material form an Intro to Game Studies Course and [Simon Frasier University](https://www.sfu.ca/)
       
 ## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg)
