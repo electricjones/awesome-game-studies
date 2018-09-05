@@ -57,6 +57,13 @@ Other Tags:
 :school:
     - One of the most standard textbooks for Game Studies Courses.
 
+- [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/)
+![price: free](https://img.shields.io/badge/price-free-green.svg)
+![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
+:school:
+    - Working Syllabus for an Introduction to Game Studies course at the [University of Washington - Bothell](http://www.uwb.edu/)
+    - Uses [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/), which is also on this list
+
 - [Introduction to Game Studies: Theory and Design (Iat 210)](https://www.studocu.com/en/course/simon-fraser-university/introduction-to-game-studies-theory-and-design/266743)
 ![price: free](https://img.shields.io/badge/price-free-green.svg)
 ![level: intermediate +](https://img.shields.io/badge/level-intermediate-ff69b4.svg)
