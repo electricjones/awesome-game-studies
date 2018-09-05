@@ -37,32 +37,9 @@ Other Tags:
 - :books: Book (check the library)
 
 ## General Introductions to Game Studies
-- [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg)
-:smiley:
- | 
-:video_camera:
- | 
-:video_game:
- | One of the premier channels covering all topics of video games.
-    
-- [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG)
-:smiley:
- | 
-:video_camera:
- | 
-:video_game:
-:game_die:
- | A comprehensive introduction to the history of gaming and topics in game studies.
-  
-- [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/)
-:sunglasses:
- | 
-:moneybag:
- | 
-:books:
-:school:
- | Standard textbooks for Game Studies Courses.
-
+- [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) :smiley: | :video_camera: | :video_game: | One of the premier channels covering all topics of video games.
+- [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) :smiley: | :video_camera: | :video_game: :game_die: | A comprehensive introduction to the history of gaming and topics in game studies.
+- [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/) :sunglasses: |  :moneybag: | :books: :school: | Standard textbooks for Game Studies Courses.
 - [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/)
 :sunglasses:
  | 
@@ -71,7 +48,6 @@ Other Tags:
 :school:
     - Working Syllabus for an Introduction to Game Studies course at the [University of Washington - Bothell](http://www.uwb.edu/)
     - Uses [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/), which is also on this list
-
 - [Introduction to Game Studies: Theory and Design (Iat 210)](https://www.studocu.com/en/course/simon-fraser-university/introduction-to-game-studies-theory-and-design/266743)
 :sunglasses:
  | 
