@@ -56,6 +56,7 @@ Other Tags:
 > This is NOT a list of tools to help you make games. See the excellent [Magic Tools](https://github.com/ellisonleao/magictools#readme) list for that.
 This list is about **learning** to make games, from design to art to programming
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/) :sunglasses: | :free: | :video_game: :school: | Harvard's Introduction to Game Development. Week by week case studies of some of the most successful games and programming assignments.
+- [Game Design Think Tank Report: Progression Systems](https://www.projecthorseshoe.com/reports/featured/ph14r3.htm) :sunglasses: | :free: | :school: | A fantastic introduction to progression systems and their mechanics, design, classification, and betterment. Put together by industry professionals at annual conference.
 
 ## Gaming Culture
 - [Coming of Age in Second Life: An Anthropologist Explores the Virtually Human](https://books.google.com/books?id=jlLpCAAAQBAJ&printsec=frontcover&dq=Coming+of+Age+in+Second+Life:+An+Anthropologist+Explores+the+Virtually+Human&hl=en&sa=X&ved=0ahUKEwjnwO-zqaLdAhXImq0KHazwDqQQ6AEIKDAA#v=onepage&q=Coming%20of%20Age%20in%20Second%20Life%3A%20An%20Anthropologist%20Explores%20the%20Virtually%20Human&f=false) :sunglasses: | :moneybag: | :video_game::books: | A classic and comprehensive ethnography of online multi-player gaming.
@@ -90,6 +91,7 @@ This list is about **learning** to make games, from design to art to programming
         - Works on some of the most successful and innovative impact games in history, like [FoldIt](http://centerforgamescience.org/blog/portfolio/foldit/)
     - [Critical Gaming Project](http://depts.washington.edu/critgame/project/): "he CGP is a collaborative, interdisciplinary working group and community of players at UW dedicated to the critical study and teaching of games."
 - [Games for Change](http://www.gamesforchange.org/) :sunglasses: | :money_with_wings: | :school: (Non-Profit associated with several schools) | Empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place. 
+- [Project Horseshoe](https://www.projecthorseshoe.com/) :sunglasses: | :money_with_wings: | Annual conference and think tank of industry professionals that meet to collaborate to "solve game design's toughest problems" and publish reports. Good resources.
 
 ## Other Lists
 - [Magic Tools: Game Development Awesome List](https://github.com/ellisonleao/magictools#readme) :video_game: :floppy_disk:
