@@ -94,6 +94,7 @@ This list is about **learning** to make games, from design to art to programming
 - [Project Horseshoe](https://www.projecthorseshoe.com/) :sunglasses: | :money_with_wings: | Annual conference and think tank of industry professionals that meet to collaborate to "solve game design's toughest problems" and publish reports. Good resources.
 
 ## Other Lists
+- [Games Do Good](https://github.com/electricjones/games-do-good-list) | Sources that show how games can have a positive impact on people and society
 - [Magic Tools: Game Development Awesome List](https://github.com/ellisonleao/magictools#readme) :video_game: :floppy_disk:
 - [Computer Science Courses](https://github.com/prakhar1989/awesome-courses) :floppy_disk:
 - [Awesome Lists](https://github.com/sindresorhus/awesome#readme) | An Awesome List of Awesome Lists
