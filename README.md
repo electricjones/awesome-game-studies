@@ -7,7 +7,8 @@ Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
 - **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
 - **[History of Gaming](#history-of-gaming)**
 - **[Scholarship and Theory](#scholarship-and-theory)**
-- **[Game Development](#game-development)** 
+- **[Game Development](#game-development)**
+- **[Game Design](#game-development)** 
 - **[Gaming Culture](#gaming-culture)**
 - **[Educational, Therapeutic, and Impact Gaming](#impact-gaming)**
 - **[Special and Miscellaneous Topics](#special-and-miscellaneous-topics)**
@@ -37,7 +38,7 @@ Other Tags:
 - :books: Book (check the library)
 
 ## General Introductions to Game Studies
-- [Extra Credits](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) :smiley: | :video_camera: | :video_game: | One of the premier channels covering all topics of video games.
+- [Extra Credits](https://www.youtube.com/@extracredits) and [older videos at Extra History](https://www.youtube.com/channel/UCCODtTcd5M1JavPCOr_Uydg) :smiley: | :video_camera: | :video_game: | One of the premier channels covering all topics of video games. Some videos are also in the list under different sections.
 - [Crash Course: Games](https://www.youtube.com/watch?v=QPqR2wOs8WI&list=PL8dPuuaLjXtPTrc_yg73RghJEOdobAplG) :smiley: | :video_camera: | :video_game: :game_die: | A comprehensive introduction to the history of gaming and topics in game studies.
 - [Introduction to Game Studies](https://books.google.com/books?id=XonWQB1vHDMC) by [Frans Mäyrä](http://www.unet.fi/) :sunglasses: |  :moneybag: | :books: :school: | Standard textbooks for Game Studies Courses.
 - [Introduction to Game Studies (Syllabus)](https://markdangerchen.net/media/blog/2013/09/BIS313.gamestudies.syllabus.pdf) by [Mark Chen](http://markdangerchen.net/) :sunglasses: | :free: | :school:
@@ -48,6 +49,7 @@ Other Tags:
 ## History of Gaming
 - [The Gaming Historian](https://www.youtube.com/channel/UCnbvPS_rXp4PC21PG2k1UVg) :smiley: | :video_camera: | :video_game: | YouTube channel chronicling the history of videogames.
 - [National Video Game Museum](http://www.nvmusa.org/) :smiley: | :moneybag: | :video_game: | Professional videogame history museum in the United States.
+- [Video Game History Foundation](https://gamehistory.org/) :smiley: | :free: :moneybag: | :video_game: | Preservation organization with a digital library spanning the entire history of video games.
 
 ## Scholarship and Theory
 (Seeking entries)
@@ -67,7 +69,7 @@ Professional and Academic resources about game design topics. Not technical prog
 ## Gaming Culture
 - [Coming of Age in Second Life: An Anthropologist Explores the Virtually Human](https://books.google.com/books?id=jlLpCAAAQBAJ&printsec=frontcover&dq=Coming+of+Age+in+Second+Life:+An+Anthropologist+Explores+the+Virtually+Human&hl=en&sa=X&ved=0ahUKEwjnwO-zqaLdAhXImq0KHazwDqQQ6AEIKDAA#v=onepage&q=Coming%20of%20Age%20in%20Second%20Life%3A%20An%20Anthropologist%20Explores%20the%20Virtually%20Human&f=false) :sunglasses: | :moneybag: | :video_game::books: | A classic and comprehensive ethnography of online multi-player gaming.
 
-## Impact Gaming
+## Educational, Theraputic, and Impact Gaming
 - [Design and Development of Games for Learning](https://courses.edx.org/courses/course-v1:MITx+11.127x_2+3T2016/course/) :sunglasses: | :free: | :video_game: :school: | Includes lessons on game design, analysis, and development for education.
 - [Choosing and Using Digital Games in the Classroom](https://www.springer.com/us/book/9783319122229):sunglasses: | :moneybag: | :video_game::books: | Research-based application of digital games n the classroom.
 
@@ -77,9 +79,10 @@ Professional and Academic resources about game design topics. Not technical prog
 ## Community
 (Seeking Entries for slack groups, meetups, blogs, forums, mailing lists, etc.)
 
-### Conferences
+### Conferences and Conventions
 - [Meaningful Play](http://meaningfulplay.msu.edu/) at [Michigan State University](https://msu.edu/) :woman_student: :moneybag: | :school: (Annually) | "Meaningful Play is a conference about theory, research, and game design innovations, principles and practices. Meaningful Play brings scholars and industry professionals together to understand and improve upon games to entertain, inform, educate, and persuade in meaningful ways."
 - [Games for Change Festival](http://www.gamesforchange.org/festival/) :woman_student: | :moneybag: | "The largest industry-facing games event in NYC, discover how games can impact education, healthcare, research, civics, and social issues."
+- [Popular Arts Conference](https://populararts.org/) :woman_student: | :moneybag: | "an annual academic conference for the studies of the popular arts, including science/speculative fiction and fantasy literature, film, and other media, comic books, manga, graphic novels, anime, gaming, etc. PAC presentations are peer reviewed, based in scholarly research."
 
 ### Research Organizations and Schools
 - [Massachusetts Institute of Technology](https://www.media.mit.edu/) :woman_student: |:money_with_wings: | :school:
@@ -98,6 +101,7 @@ Professional and Academic resources about game design topics. Not technical prog
     - [Critical Gaming Project](http://depts.washington.edu/critgame/project/): "he CGP is a collaborative, interdisciplinary working group and community of players at UW dedicated to the critical study and teaching of games."
 - [Games for Change](http://www.gamesforchange.org/) :sunglasses: | :money_with_wings: | :school: (Non-Profit associated with several schools) | Empowers game creators and social innovators to drive real-world change using games that help people to learn, improve their communities, and contribute to make the world a better place. 
 - [Project Horseshoe](https://www.projecthorseshoe.com/) :sunglasses: | :money_with_wings: | Annual conference and think tank of industry professionals that meet to collaborate to "solve game design's toughest problems" and publish reports. Good resources.
+- [Video Game History Foundation](https://gamehistory.org/) :smiley: | :free: :moneybag: | :video_game: | Preservation organization with a digital library spanning the entire history of video games.
 
 ## Other Lists
 - [Games Do Good](https://github.com/electricjones/games-do-good-list) | Sources that show how games can have a positive impact on people and society
