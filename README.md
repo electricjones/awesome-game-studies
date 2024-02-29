@@ -1,7 +1,9 @@
 # Awesome Game Studies [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A community-driven awesome list of resources for gaming scholarship, art, and sciences.
-Focused on general Game Scholarship Theories, Videogames, and Tabletop games. 
+Focused on general Game Scholarship Theories, Videogames, and Tabletop games.
+
+This curated list is part of my initiative to [Learn Out Loud](https://electricjones.me/etcetera/2024/01/03/learning-out-loud/). It is a curated list of the most important items. I will also share my full Zotero bibliography in the future.
 
 ## Contents
 - **[General Introductions to Game Studies](#general-introductions-to-game-studies)**
