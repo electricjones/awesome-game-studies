@@ -54,8 +54,14 @@ Other Tags:
 
 ## Game Development
 > This is NOT a list of tools to help you make games. See the excellent [Magic Tools](https://github.com/ellisonleao/magictools#readme) list for that.
-This list is about **learning** to make games, from design to art to programming
+
+Game Programming and tutorials is out of scope for this list. There are many other excellent ones out there. I will only list one here because it is not just about making a game or game programming, but includes case studies. A great launcing pad before getting into the nitty-gritty of games programming.
+
 - [CS50's Introduction to Game Development](https://courses.edx.org/courses/course-v1:HarvardX+CS50G+Games/course/) :sunglasses: | :free: | :video_game: :school: | Harvard's Introduction to Game Development. Week by week case studies of some of the most successful games and programming assignments.
+
+## Game Design
+Professional and Academic resources about game design topics. Not technical programming resources (mostly), but instead breakdowns of topics concerning level design, progression systems, balencing, palyer interaction, etc.
+
 - [Game Design Think Tank Report: Progression Systems](https://www.projecthorseshoe.com/reports/featured/ph14r3.htm) :sunglasses: | :free: | :school: | A fantastic introduction to progression systems and their mechanics, design, classification, and betterment. Put together by industry professionals at annual conference.
 
 ## Gaming Culture
