@@ -87,6 +87,9 @@ Professional and Academic resources about game design topics. Not technical prog
 - [Popular Arts Conference](https://populararts.org/) :woman_student: | :moneybag: | "an annual academic conference for the studies of the popular arts, including science/speculative fiction and fantasy literature, film, and other media, comic books, manga, graphic novels, anime, gaming, etc. PAC presentations are peer reviewed, based in scholarly research."
 
 ### Research Organizations and Schools
+- [American University Game Lab](https://american.edu/centers/gamecenter/) :woman_student: | :money_with_wings: | :school:
+    - Undergraduate and Graduate degrees in Game Design and Interactivity.
+    - Focus on Meaningful or Impact Games.
 - [Massachusetts Institute of Technology](https://www.media.mit.edu/) :woman_student: |:money_with_wings: | :school:
     - [MIT Education Arcade](https://education.mit.edu/): Research Lab and Teacher Education focusing on innovation around Games for Learning, Simulation and Programming tools, Teacher Licensure, Professional Development and Curriculum Development.
     - [MIT Game Lab](http://gamelab.mit.edu/): "The MIT Game Lab brings together scholars, creators, and technologists to teach, conduct research, and develop new approaches for applied game design and construction."
